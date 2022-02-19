@@ -120,6 +120,6 @@ main{
 }
 #cancel:hover{
     color:black;
-    /* cursor: pointer; */
+    cursor: pointer;
 
 }
